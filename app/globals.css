@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #f7faf5;
+  color: #111827;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #f7faf5;
+  color: #111827;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  transition: all 0.3s ease;
+}
+
+img {
+  user-select: none;
+}
+body {
+  background: #f6f7fb;
+  font-family: ui-sans-serif, system-ui;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #f7faf5;
+  font-family: system-ui, sans-serif;
+}
